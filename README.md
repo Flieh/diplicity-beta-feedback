@@ -7,3 +7,7 @@ We'll be collecting observations and bug reports here for Martin's Diplicity And
 I will work with Martin to bring him the best ideas. Keep in mind that it's a labor of love on his part, so he'll do what he wants ultimately. But he is interested in what the community has to say.
 
 Here is a link that will allow you to configure email notifications. No push notifications are available yet, so this is the next best thing: https://diplicity-engine.appspot.com/User/111874156655660979592/UserConfig
+
+Here is a link to Martin's google drive where all the apks are available. https://drive.google.com/drive/folders/0B67FlKHmCU84eWVnRy1tcVUtVlk
+
+<h3>Until further notice, everyone should be using Build 62-69</h3>
