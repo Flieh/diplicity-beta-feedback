@@ -10,4 +10,7 @@ Here is a link that will allow you to configure email notifications. No push not
 
 Here is a link to Martin's google drive where all the apks are available. https://drive.google.com/drive/folders/0B67FlKHmCU84eWVnRy1tcVUtVlk
 
-#h3 Until further notice, everyone should be using Build 63
+### Until further notice, everyone should be using Build 63
+
+> we're living the future
+> so the present is our past
