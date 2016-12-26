@@ -8,17 +8,6 @@ I will work with Martin to bring him the best ideas. Keep in mind that it's a la
 
 Here is a link that will allow you to configure email notifications. No push notifications are available yet, so this is the next best thing: https://diplicity-engine.appspot.com/User/111874156655660979592/UserConfig
 
-Here is a link to Martin's google drive where all the apks are available. https://drive.google.com/drive/folders/0B67FlKHmCU84eWVnRy1tcVUtVlk
+Here is a link to [Martin's google drive] (https://drive.google.com/drive/folders/0B67FlKHmCU84eWVnRy1tcVUtVlk) where all the apks are available. 
 
 ### Until further notice, everyone should be using Build 63
-
-> we're living the future
-> so the present is our past
-
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
