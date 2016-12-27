@@ -9,6 +9,8 @@ I will work with Martin to bring him the best ideas. Keep in mind that it's a la
 Here is a link that will allow you to [configure email notifications] (https://diplicity-engine.appspot.com/User/111874156655660979592/UserConfig). Scroll down to MailConfig and tick the enabled box.
 
 Here is a link to [Martin's google drive] (https://drive.google.com/drive/folders/0B67FlKHmCU84eWVnRy1tcVUtVlk) where all the apks are available. 
+
+### Put all your comments and questions on [the issue page here] (https://github.com/Flieh/diplicity-beta-feedback/issues). I will tag and currate them for Martin.
 ### Try to have the latest build installed. Ask for help on the Hangout if need be.
 
 
