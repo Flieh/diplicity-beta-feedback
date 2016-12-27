@@ -6,7 +6,7 @@ We'll be collecting observations and bug reports here for Martin's Diplicity And
 
 I will work with Martin to bring him the best ideas. Keep in mind that it's a labor of love on his part, so he'll do what he wants ultimately. But he is interested in what the community has to say.
 
-* [Google Hangout] (https://hangouts.google.com/group/U31Ap1XZBQGgn7O33) I will try to answer any questions live here.
+* Join our [Google Hangout] (https://hangouts.google.com/group/U31Ap1XZBQGgn7O33) I will try to answer any questions live here.
 
 * You to [configure email notifications] (https://diplicity-engine.appspot.com/User/111874156655660979592/UserConfig). Scroll down to MailConfig and tick the enabled box.
 
