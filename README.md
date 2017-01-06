@@ -14,6 +14,6 @@ I will work with Martin to bring him the best ideas. Keep in mind that it's a la
 
 #### Put all your comments and questions on [the issue page here] (https://github.com/Flieh/diplicity-beta-feedback/issues). I will tag and currate them for Martin.
 #### Try to have the latest build installed. Ask for help on the Hangout if need be.
-#### This is beta testing. Don't hesitate to join as many games as possible and try things out. Don't worry about winning :)
-
+#### This is **beta** testing. Don't hesitate to join as many games as possible and try things out. Don't worry about winning :)
+ ![screeny] (https://drive.google.com/file/d/0B-Iu3TkKuCwURkd1RkpITG5yeU0/view?usp=sharing)
 
